@@ -105,7 +105,7 @@
 
 ***参考式*** 的链接：`` [Key][id] (另起它行) [id]: LinkPath "Option Title" ``
 
-*隐式链接* ：省去id，直接定义Key
+*隐式链接* ：`` [Key][] (另起它行) [Key]: LinkPath "Option Title" ``
 
 id不区分大小写，位置任意；Title不限于使用双引号，还可以单引、括号
 
