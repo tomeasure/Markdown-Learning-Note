@@ -149,12 +149,14 @@ id不区分大小写，位置任意；Title不限于使用双引号，还可以�
 
 相关链接：
 
+<https://blog.csdn.net/qq_29695701/article/details/79694220/>
+
 <https://www.appinn.com/markdown/>
 
 <http://www.markdown.cn/>
 
-<https://www.jianshu.com/p/e063303317cb>
+<https://www.jianshu.com/p/e063303317cb/>
 
 <http://tinylab.org/use-markdown-to-write-slides/>
 
-https://github.com/yhatt/marp/releases
+<https://github.com/yhatt/marp/releases/>
