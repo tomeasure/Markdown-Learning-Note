@@ -82,7 +82,7 @@
 
 | head1 | head2 | head3 |
 | ----- | ----- | ----- |
-|  sth  |  sth: |  sth  |
+|  sth  |  sth :|  sth  |
 |  sth  |  sth  |  sth  |
 
 ---
